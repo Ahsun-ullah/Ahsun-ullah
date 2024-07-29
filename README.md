@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ahsun Ullah</h1>
-<h3 align="center">A passionate Javascript developer from Bangladesh 👨🏽‍💻</h3>
+<h3 align="center">A passionate Web Application developer from Bangladesh 👨🏽‍💻</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahsun-ullah" alt="ahsun-ullah" /></a> </p>
 
-- 🔭 I’m currently working on [Sports Management Software (SquadDeck))](https://www.wazzasgarage.com/)
+- 🔭 I’m currently working on [Sports Management Software (SquadDeck))](https://www.squaddeck.com/)
 
-- 🌱 I’m currently learning **NextJs And working with it**
+- 🌱 I’m currently learning **NextJs And Python, working with it**
 
-- 💬 Share Your knowledge about **react,nextJs,Javascripts**
+- 💬 Share Your knowledge about **react,nextJs,Javascripts,python**
 
 - 📫 How to reach me **ahsunrahim@gmail.com**
 
