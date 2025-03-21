@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on  <a href="https://embro-id.vercel.app/" target="_blank">Digital Assets Selling Software (EmbroiD)</a>
 
-- 🌱 I’m currently learning **NextJs And Python, working with it**
+- 🌱 I’m currently learning **Python and Agentic AI**
 
-- 💬 Share Your knowledge about **react,nextJs,Javascript,python**
+- 💬 Share Your knowledge about **react,nextJs,Javascript,python,Agentic AI**
 
 - 📫 How to reach me **ahsunrahim@gmail.com**
 
