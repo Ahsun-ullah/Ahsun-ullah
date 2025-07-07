@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahsun-ullah" alt="ahsun-ullah" /></a> </p>
 
-- 🔭 I’m currently working on  <a href="https://embro-id.vercel.app/" target="_blank">Digital Assets Selling Software (EmbroiD)</a>
+- 🔭 I’m currently working on my own product  <a href="https://embroidize.com/" target="_blank">Digital Assets Selling Platform (Embroidize)</a>
 
 - 🌱 I’m currently learning **Python and Agentic AI**
 
